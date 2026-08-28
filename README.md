@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Derath 👋
+
+ECE Student @ VIT Vellore | Aspiring VLSI Design Verification Engineer
+
+- 🔭 **Focus Areas:** Digital Design, SystemVerilog, UVM, Protocol Verification (AMBA AHB/APB), RISC-V Verification
+- 🛠️ **Skills & Tools:** SystemVerilog, Verilog, C++, Python, ModelSim / QuestaSim, Vivado, Git
+- 📫 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
 
 <!--
 **DerathThutaram/DerathThutaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
