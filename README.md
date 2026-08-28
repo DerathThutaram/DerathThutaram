@@ -3,7 +3,7 @@
 ECE Student @ VIT Vellore | Aspiring VLSI Design Verification Engineer
 
 - 🔭 **Focus Areas:** Digital Design, SystemVerilog, UVM, Protocol Verification (AMBA AHB/APB), RISC-V Verification
-- 🛠️ **Skills & Tools:** SystemVerilog, Verilog, C++, Python, ModelSim / QuestaSim, Vivado, Git
+- 🛠️ **Skills & Tools:** SystemVerilog, Verilog, C++, Python, ModelSim, Git
 - 📫 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
 
 <!--
