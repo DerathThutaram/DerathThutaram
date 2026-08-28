@@ -1,4 +1,4 @@
-# Hi, I'm Derath 👋
+# Hey, It's Derath
 
 ECE Student @ VIT Vellore | Aspiring VLSI Design Verification Engineer
 
